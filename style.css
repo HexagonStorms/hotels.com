@@ -1,0 +1,16 @@
+.navbar-light > .logo-color {
+    background: #f54d3d;
+    color: white;
+}
+.navbar-light > .logo-color:hover {
+    background: #f54d3d;
+    color: white;
+}
+.hotel-background {
+    background: url("https://t-ec.bstatic.com/images/hotel/max1280x900/760/76018512.jpg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
